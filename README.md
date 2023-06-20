@@ -18,5 +18,5 @@
 
 
 ## 🛠 Skills
-![Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,mysql,git,postman,jest,vscode)
+![Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,astro,mysql,git,postman,jest,vscode)
 
