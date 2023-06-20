@@ -10,9 +10,9 @@
 
 
 ## 🚀 About Me
-🤔 I'm looking for job opportunities in the Miami, FL area or remote.
+🔎 I'm looking for job opportunities in the Miami, FL area or remote.
 
-🧠 I'm currently learning about prompt enginnering for LLM's
+🧠 I'm currently learning TypeScript.js for react 
 
 📫 How to reach me: ajosephs1@babson.edu
 
