@@ -1,7 +1,7 @@
 
 # Hi, I'm Andrew! 👋
 
-**I am a self-taught web-developer turned full stack engineer after recently completing a bootcamp. I'm passionate about football, music and creating impact through code!**
+**I am a self-taught web-developer turned full stack engineer after recently completing a bootcamp. I'm passionate about football, music and innovation through code!**
 
 
 ## 🔗 Links
