@@ -14,7 +14,7 @@
 
 🧠 I'm currently learning TypeScript.js for react 
 
-📫 How to reach me: ajosephs1@babson.edu
+📫 How to reach me: andrew_josephs@hotmail.co.uk
 
 
 ## 🛠 Skills
