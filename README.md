@@ -10,11 +10,11 @@
 
 
 ## 🚀 About Me
-🔎 I'm looking for job opportunities in the Miami, FL area or remote.
+🔎 I'm looking for front-end or full-stack engineer job opportunities in the Miami, FL area or remote.
 
-🧠 I'm currently learning TypeScript.js for react 
+🧠 I'm currently learning typescript
 
-📫 How to reach me: andrew_josephs@hotmail.co.uk
+📫 How to reach me: andrew_josephs@outlook.com
 
 
 ## 🛠 Skills
