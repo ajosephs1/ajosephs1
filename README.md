@@ -21,4 +21,4 @@
 ![Skills](https://skillicons.dev/icons?i=react,nodejs,ts,express,js,html,css,sass,astro,mysql,git,postman,jest,vscode)
 
 ## 👨🏾‍💻 LeetCode
-![Stats](https://leetcode-badge-sage.vercel.app/badge/{ajosephs1}?theme={dark|neutral})
+![LeetCode Stats](https://leetcard.jacoblin.cool/ajosephs1?theme=nord&font=Noto%20Sans)
