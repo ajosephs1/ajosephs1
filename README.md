@@ -1,7 +1,7 @@
 
 # Hi, I'm Andrew! 👋
 
-**I am a self-taught web-developer turned full stack engineer after recently completing a bootcamp. I'm passionate about football, music and innovation through code!**
+**I am a self-taught web-developer turned full stack engineer. I'm passionate about football, music and innovation through code!**
 
 
 ## 🔗 Links
@@ -10,11 +10,9 @@
 
 
 ## 🚀 About Me
-🔎 I'm looking for front-end or full-stack engineer job opportunities in the Miami, FL area or remote.
+🔎 I'm looking for front-end or full-stack engineer job opportunities in the Los Angeles, CA area or remote.
 
-🧠 I'm currently learning typescript
-
-📫 How to reach me: andrew_josephs@outlook.com
+📫 How to reach me: andrew_josephs@hotmail.co.uk
 
 
 ## 🛠 Skills
